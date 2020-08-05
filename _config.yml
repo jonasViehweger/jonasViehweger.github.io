@@ -51,7 +51,7 @@ icon: fa-infinity
 icon-style: light
 
 # Google Analytics Tracking ID goes here:
-google_analytics: 
+# google_analytics: 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
