@@ -13,10 +13,7 @@
 }
 
 .image {
-    display: inline-block;
-    border: 0;
-
     &.unfit {
-        display: inline-block;
+        display: none;
         width: 100%;
     }
