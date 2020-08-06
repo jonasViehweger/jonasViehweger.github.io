@@ -11,3 +11,12 @@
 .static:hover {
   opacity:0;
 }
+
+.image {
+    display: inline-block;
+    border: 0;
+
+    &.fit {
+        display: inline-block;
+        width: 100%;
+    }
