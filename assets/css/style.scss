@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.static {
+  position:absolute;
+  background: white;
+}
+
+.static:hover {
+  opacity:0;
+}
