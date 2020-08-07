@@ -4,11 +4,15 @@
 @import "{{ site.theme }}";
 
 .static {
-    position:absolute;
+    position: absolute;
     background: white;
     
     &:hover {
         opacity:0;
     }
     
+}
+
+.image.fit {
+    position: relative;
 }
