@@ -1,9 +1,22 @@
 ---
 layout: post
 title:  "Impact of Intensive Irrigation on Local Precipitation."
-date:   2020-03-15 14:08:00 +0900
+date:   2020-03-15 14:00:00 +0900
 categories: portfolio
 ---
+
+Towards the end of the 1980s there was a big push in Saudi-Arabia to intensify and modernise their agriculture. 
+To accomplish this, wells were drilled to available aquifers below the country. Using water from these aquifers to irrigate the fields, a much more productive agriculture was possible, 
+transforming Saudi-Arabia from an import dependend country towards an net exporter of agricultural goods in only a few decades.
+
+One of the regions in Saudi-Arabia which saw a big agricultural expansion is Al-Jawf in the north of the country.
+
+![overview study area](/assets/{page.tile}/Overview.png)
+
+Below is a timelapse showing the development from 1984 to 2010 using Landsat 5 images. The animation is in false color, making the vegetation a bright red.
+
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
