@@ -11,11 +11,13 @@ transforming Saudi-Arabia from an import dependend country towards an net export
 
 One of the regions in Saudi-Arabia which saw a big agricultural expansion is Al-Jawf in the north of the country.
 
-![Overview study area](/assets/posts/irrigation/Overview.png){:class="img-responsive"}
+![Overview study area](/assets/posts/irrigation/Overview.png){:width="50%"}
 
 Below is a timelapse showing the development from 1984 to 2010 using Landsat 5 images. The animation is in false color, making the vegetation a bright red.
 
+![Animation development](/assets/posts/irrigation/Al-Jouf_animated.gif){:width="50%"}
 
+Yes, that's very nice.
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
