@@ -11,7 +11,7 @@ transforming Saudi-Arabia from an import dependend country towards an net export
 
 One of the regions in Saudi-Arabia which saw a big agricultural expansion is Al-Jawf in the north of the country.
 
-![overview study area](/assets/{page.tile}/Overview.png)
+![Overview study area](/assets/posts/irrigation/Overview.png)
 
 Below is a timelapse showing the development from 1984 to 2010 using Landsat 5 images. The animation is in false color, making the vegetation a bright red.
 
