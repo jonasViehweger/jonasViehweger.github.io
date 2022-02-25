@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Jonas Viehweger</title>
+    <link>https://jonasViehweger.github.io/project/</link>
+      <atom:link href="https://jonasViehweger.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jonasViehweger.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://jonasViehweger.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Does large-scale Irrigation impact Precipitation?</title>
+      <link>https://jonasViehweger.github.io/project/irrigation/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jonasViehweger.github.io/project/irrigation/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Using Google Earth Engine and 20 years of MODIS and GPM (Global Precipitation Monitoring)
+data, we were able to show that large scale irrigation increases the precipitation frequency
+in close proximity to the irrigated areas.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;More details below&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;my-first-image&#34;
+           src=&#34;https://jonasViehweger.github.io/project/irrigation/Al-Jouf_animated.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;This is a quick and very reduced summary of the work done for this analysis.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;With irrigation, most arid landscapes are very suitable for year round agriculture.
+Over the last decades Saudi Arabia has used groundwater stored in aquifers to increase
+its agricultural output. One of the regions which benefited from the development
+of wells the most was Al-Jawf where an area of 10.000 km² is irrigated almost year round
+using groundwater.&lt;/p&gt;
+&lt;img src=&#34;https://jonasViehweger.github.io/project/irrigation/index_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;
+&lt;p&gt;We analysed if this large scale irrigation impacts local precipitation patterns
+through increased evapotranspiration.&lt;/p&gt;
+&lt;p&gt;Using MODIS data from 2000-2019 to classify irrigated areas and Global Precipitation Measurement
+(GPM) data to analyse local precipitation patterns, correlations between the irrigated
+area and precipitation frequency and amount could be identified.&lt;/p&gt;
+&lt;p&gt;The analysis was carried out using Google Earth Engine and showed an increased
+precipitation frequency to the north of the irrigated area, while the sum of precipitation
+decreased south of the irrigated area.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;my-first-image&#34; srcset=&#34;
+               /project/irrigation/Trend_hud6d4f6a7bd486c245552709fadb965f4_231793_cb28c0787458fd217ebee23725bc8538.webp 400w,
+               /project/irrigation/Trend_hud6d4f6a7bd486c245552709fadb965f4_231793_60128ca4488e8630951e94fd7cd2b332.webp 760w,
+               /project/irrigation/Trend_hud6d4f6a7bd486c245552709fadb965f4_231793_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jonasViehweger.github.io/project/irrigation/Trend_hud6d4f6a7bd486c245552709fadb965f4_231793_cb28c0787458fd217ebee23725bc8538.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;485&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fieldClim</title>
+      <link>https://jonasViehweger.github.io/project/fieldclim/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jonasViehweger.github.io/project/fieldclim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nrt Python Package</title>
+      <link>https://jonasViehweger.github.io/project/nrt/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jonasViehweger.github.io/project/nrt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

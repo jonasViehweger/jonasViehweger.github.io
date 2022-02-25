@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonas Viehweger</title>
+    <link>https://jonasViehweger.github.io/author/jonas-viehweger/</link>
+      <atom:link href="https://jonasViehweger.github.io/author/jonas-viehweger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonas Viehweger</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jonasViehweger.github.io/author/jonas-viehweger/avatar_hufb940f16bcd55613deb17f72c9375d7a_4454572_270x270_fill_q75_lanczos_center.JPG</url>
+      <title>Jonas Viehweger</title>
+      <link>https://jonasViehweger.github.io/author/jonas-viehweger/</link>
+    </image>
+    
+  </channel>
+</rss>
