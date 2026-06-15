@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+
+execute:
+  freeze: auto   # notebooks/code are rendered locally and cached in _freeze/,
+                 # so CI only needs Quarto (no Python/Jupyter setup required)
+
+website:
+  title: "Jonas Viehweger"
+  site-url: "https://jonasviehweger.github.io"
+  description: "Remote Sensing Specialist — satellite imagery, machine learning, geospatial analysis."
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: talks/index.qmd
+        text: Talks
+      - href: blog/index.qmd
+        text: Blog
+      - href: projects/index.qmd
+        text: Projects
+    right:
+      - icon: github
+        href: https://github.com/jonasViehweger
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jonas-viehweger-230468219/
+        aria-label: LinkedIn
+  page-footer:
+    center: "© 2026 Jonas Viehweger · Built with [Quarto](https://quarto.org)"
+  sidebar:
+    - id: example-post
+      contents:
+        - blog/posts/example-jupyter-post/index.ipynb
+        - blog/posts/example-jupyter-post/sub-page/index.ipynb
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    code-copy: true
+    code-overflow: wrap

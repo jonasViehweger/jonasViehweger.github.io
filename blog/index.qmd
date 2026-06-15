@@ -1,0 +1,10 @@
+---
+title: "Blog"
+listing:
+  contents: "posts/*/index.{qmd,ipynb}"
+  type: default
+  sort: "date desc"
+  fields: [date, title, description, categories, reading-time]
+  categories: true
+  feed: true
+---

@@ -1,0 +1,15 @@
+/* Small refinements on top of the cosmo/darkly themes */
+
+.navbar-title {
+  font-weight: 600;
+}
+
+/* Tighten the about-page intro */
+main.content {
+  max-width: 1000px;
+}
+
+/* Round project/listing thumbnails a touch */
+.quarto-grid-item .card-img-top {
+  object-fit: cover;
+}

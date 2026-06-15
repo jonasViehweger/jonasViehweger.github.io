@@ -1,0 +1,13 @@
+---
+title: "Publications"
+bibliography: references.bib
+nocite: |
+  @*
+---
+
+A list of my publications. Each entry is generated automatically from
+[`references.bib`](references.bib). To add a paper, paste its BibTeX entry into that file
+(you can export BibTeX from Zotero, Google Scholar, ORCID, or a journal's "cite" button).
+
+::: {#refs}
+:::

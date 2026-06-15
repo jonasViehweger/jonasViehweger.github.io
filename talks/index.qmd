@@ -1,0 +1,14 @@
+---
+title: "Talks"
+listing:
+  contents: "*/index.qmd"
+  type: default
+  sort: "date desc"
+  fields: [date, title, description, categories]
+  date-format: "MMMM YYYY"
+  categories: true
+  feed: false
+---
+
+Talks, presentations, and workshops. To add one, create a new folder under `talks/` with an
+`index.qmd` (copy the example) and fill in its front matter.

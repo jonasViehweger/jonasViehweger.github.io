@@ -1,0 +1,11 @@
+- title: "nrt — Python Package"
+  description: "A Python package for fast and easy application of near real-time forest disturbance detection algorithms."
+  image: nrt.png
+  path: "https://github.com/ec-jrc/nrt"
+  categories: [Python]
+
+- title: "fieldClim"
+  description: "An R package for convenient and fast analysis of micro-meteorology measurements."
+  image: fieldclim.png
+  path: "https://jonasviehweger.github.io/fieldClim/"
+  categories: [R]

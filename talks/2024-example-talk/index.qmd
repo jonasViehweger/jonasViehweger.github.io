@@ -1,0 +1,20 @@
+---
+title: "Example Talk Title"
+description: "A one-line summary of what the talk was about."
+date: "2024-09-01"
+categories: [Remote Sensing]
+# Optional fields you can add:
+# event: "Conference / venue name"
+# location: "City, Country"
+---
+
+> This is a template talk. Duplicate this folder, rename it, and edit the front matter above.
+
+## Abstract
+
+Replace this with the talk abstract or a short description.
+
+## Links
+
+- [Slides](#) <!-- link to a PDF or slide deck -->
+- [Video](#) <!-- link to a recording, if any -->

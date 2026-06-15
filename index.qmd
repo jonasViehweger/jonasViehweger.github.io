@@ -1,0 +1,33 @@
+---
+title: "Jonas Viehweger"
+pagetitle: "Jonas Viehweger"
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jonasvieh@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/jonasViehweger
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jonas-viehweger-230468219/
+---
+
+I'm a **Remote Sensing Specialist** who likes all things connected to satellite remote
+sensing — be that optical sensors, radar, or LiDAR — analysed with Python, R, or Google
+Earth Engine.
+
+## Interests
+
+- Remote Sensing
+- Machine Learning
+- Geospatial Analysis
+
+## Education
+
+- **M.Sc. Physical Geography**, Philipps-University Marburg (2022)
+- **B.Sc. Applied Geography**, RWTH Aachen (2019)

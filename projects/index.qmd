@@ -1,0 +1,12 @@
+---
+title: "Projects"
+listing:
+  id: project-list
+  contents: projects.yml
+  type: grid
+  image-height: "200px"
+  sort: false
+  fields: [image, title, description]
+---
+
+Open-source software I build and maintain.
