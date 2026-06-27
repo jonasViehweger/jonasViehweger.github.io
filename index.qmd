@@ -6,9 +6,6 @@ about:
   image: profile.jpg
   image-shape: round
   links:
-    - icon: envelope
-      text: Email
-      href: mailto:jonasvieh@gmail.com
     - icon: github
       text: GitHub
       href: https://github.com/jonasViehweger

@@ -1,0 +1,3 @@
+[submodule "blog/posts/s2-time-series-access"]
+	path = blog/posts/s2-time-series-access
+	url = git@github.com:jonasViehweger/s2-time-series-access.git

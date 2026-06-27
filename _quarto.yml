@@ -33,10 +33,14 @@ website:
   page-footer:
     center: "© 2026 Jonas Viehweger · Built with [Quarto](https://quarto.org)"
   sidebar:
-    - id: example-post
+    - id: s2-time-series-access
       contents:
-        - blog/posts/example-jupyter-post/index.ipynb
-        - blog/posts/example-jupyter-post/sub-page/index.ipynb
+        - blog/posts/s2-time-series-access/index.ipynb
+        - blog/posts/s2-time-series-access/odc-stac-nb/index.ipynb
+        - blog/posts/s2-time-series-access/openeo-nb/index.ipynb
+        - blog/posts/s2-time-series-access/sh-nb/index.ipynb
+        - blog/posts/s2-time-series-access/xcube-nb/index.ipynb
+        - blog/posts/s2-time-series-access/tlm-kerchunk-nb/index.ipynb
 
 format:
   html:

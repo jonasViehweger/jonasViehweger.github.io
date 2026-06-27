@@ -9,4 +9,4 @@ listing:
   fields: [image, title, description]
 ---
 
-Open-source software I build and maintain.
+Open-source software I have built or contributed to.

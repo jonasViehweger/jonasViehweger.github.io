@@ -10,5 +10,4 @@ listing:
   feed: false
 ---
 
-Talks, presentations, and workshops. To add one, create a new folder under `talks/` with an
-`index.qmd` (copy the example) and fill in its front matter.
+Talks, presentations, and workshops.
