@@ -1,0 +1,10 @@
+---
+title: "44th EARSeL Symposium"
+description: "Enabling Near Real-Time Forest Disturbance Detection on the Copernicus Data Space Ecosystem "
+date: "2025-05-26"
+categories: [Talk, NRT, Forest Disturbance]
+# Optional fields you can add:
+event: "44th EARSeL Symposium"
+location: "Prague, Czechia"
+---
+

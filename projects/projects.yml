@@ -9,3 +9,27 @@
   image: fieldclim.png
   path: "https://jonasviehweger.github.io/fieldClim/"
   categories: [R]
+
+- title: "cdse-tsbrowser"
+  description: "A website to explore and label satellite time-series"
+  image: cdse-tsbrowser.svg
+  path: "https://github.com/jonasViehweger/cdse-tsbrowser/"
+  categories: [Web]
+
+- title: "DISFOR"
+  description: "A dataset providing dense labels for forest disturbances in Europe"
+  image: disfor.svg
+  path: "https://github.com/JR-DIGITAl/DISFOR"
+  categories: [Python]
+
+- title: "LandShade"
+  description: "A website showing mean colors of countries on Earth as seen by satellites"
+  image: landshade.ico
+  path: "https://www.landshade.com/"
+  categories: [Web]
+
+- title: "Guess - LandShade"
+  description: "A wordle style game to guess country colors"
+  image: landshade.ico
+  path: "https://guess.landshade.com/"
+  categories: [Web]

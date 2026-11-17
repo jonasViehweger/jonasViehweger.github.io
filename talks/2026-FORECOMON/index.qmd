@@ -1,0 +1,9 @@
+---
+title: "FORECOMON - 13th Forest Ecosystem Monitoring Conference"
+description: "Integrating Ground and Remote Sensing Data for Forest Resilience: Pan-European Biomass Mapping in Austria, Sweden, and Denmark"
+date: "2026-05-05"
+categories: [Talk, Biomass]
+# Optional fields you can add:
+event: "FORECOMON 2026"
+location: "Dubrovnik, Croatia"
+---

@@ -1,7 +1,7 @@
 ---
 title: "Big Data in Space"
 description: "Workshop on streamlined data access on Copernicus Data Space Ecosystem"
-date: "2024-09-01"
+date: "2023-11-06"
 categories: [Deforestation, Workshop]
 # Optional fields you can add:
 event: "Big Data in Space 2023"
